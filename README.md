@@ -9,7 +9,7 @@
 * When clicking enter add a list item that displays name and country code or similar with a date added in a list beneath the search field. Similar to a search history.
 * Nothing needs to be saved if the page is reloaded.
 * Logo and search icon can be found in the folder icons.
-* Please use React and other frameworks :-)
+* Please use React and feel free to use other frameworks :-)
 
 ### What will we look at:
 * Check that the solution and structure is properly created.
