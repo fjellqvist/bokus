@@ -1,0 +1,68 @@
+body {
+	background-color: #fff;
+}
+
+.countryList {
+	list-style: none;
+	width: 50%;
+	padding-left: 0px;
+	padding-right: 0px;
+	border: solid #cdcdcd 2px;
+	position: relative;
+	top: -22px;
+}
+.countryList li {
+	background-color: #fff;
+	margin: 10px 10px;
+	padding-bottom: 10px;
+	border-bottom: solid #cdcdcd 2px;
+	cursor: pointer;
+}
+.countryList li p {
+	margin: 5px;
+}	
+.countryList img {
+	width: 100px;
+	padding: 10px 0px;
+}
+
+.addedList li {
+	list-style: none;
+	width: 100%;
+	padding: 10px;
+	background-color: lavender;
+	position: relative;
+	top: -22px;
+	margin: 0px 0px 10px 0px;
+}
+
+.addedList li span {
+	float: right;
+	margin-right: 10px;
+	color: red;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.seach-form {
+	margin-top: 20px;
+	padding:  20px 0px 20px 0px;
+}
+
+.searchImg {
+	width: 34px;
+	background-color: lavender;
+	margin-right: 10px;
+}
+
+.input-container {
+	background-color: lavender;
+	padding: 10px 0px;
+}
+
+input {
+	background-color: lavender;
+	border: none;
+	padding: 5px;
+	width: 90%;
+}
